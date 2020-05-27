@@ -32,3 +32,8 @@
 * JRebel: 生产力工具，它允许开发人员立即重新加载代码更改
 * color ide pack: 颜色主题包
 * autodetect encoding: 快速更改文件编码
+* lombok: 通过注释减少代码量的工具. 下载: https://projectlombok.org/download . 手动安装: 拷贝到 /Applications/Eclipse.app/Contents/Eclipse/ 目录下. 然后在 同目录的 eclipse.ini 中添加以下两行.
+  ```shell
+  echo "-Xbootclasspath/a:lombok.jar    --备注：如果没有这一行也是没问题的" >> eclipse.ini
+  echo "-javaagent:lombok.jar" >> eclipse.ini
+  ```
