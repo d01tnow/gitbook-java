@@ -604,6 +604,8 @@ mybatis plus 是 mybatis 的增强实现.
 1. @Autowired 注解 UserMapper 接口变量 , 会报创建 Bean 失败. 使用 @Resource 注解可以.
 2. 插入操作中, 不设置 User 的 id(自增的), 会报错. user.setId(0) 即可以解决.
 
+## SpringBoot & Junit5
+
 
 
   
