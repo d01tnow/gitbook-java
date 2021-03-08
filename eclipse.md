@@ -37,7 +37,7 @@
 
 * subclipse: svn 插件
 
-* JRebel: 生产力工具，它允许开发人员立即重新加载代码更改
+* JRebel: 生产力工具，它允许开发人员立即重新加载代码更改. 不免费.
 
 * color ide pack: 颜色主题包
 
@@ -51,8 +51,15 @@
   ```
 
 * findbugs: 
+
 * MyBatis Generator: 
+
 * MyBatipse: mybatis 工具
+
 * Enhanced Class Decompiler: 反编译工具
+
 * Start Explorer: 打开文件浏览器
+
 * developer utils: 开发小工具合集. regex, base64, md5 等
+
+* Eclipse Archive Util: 在 eclipse 中打开 jar, war, zip 等
